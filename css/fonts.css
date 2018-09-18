@@ -1,0 +1,71 @@
+/* font-family Noto Sans Regular */
+
+@font-face {
+  font-family: 'NotoSansRegular';
+  src: url('../fonts/NotoSansRegular/NotoSansRegular.eot');
+  src: url('../fonts/NotoSansRegular/NotoSansRegular.eot?#iefix')format('embedded-opentype'),
+       url('../fonts/NotoSansRegular/NotoSansRegular.woff2') format('woff2'),
+       url('../fonts/NotoSansRegular/NotoSansRegular.woff') format('woff'),
+       url('../fonts/NotoSansRegular/NotoSansRegular.ttf') format('truetype'),
+       url('../fonts/NotoSansRegular/NotoSansRegular.svg#NotoSansRegular') format('svg');
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+/* font-family Noto Sans Bold */
+
+@font-face {
+  font-family: 'NotoSansBold';
+  src: url('../fonts/NotoSansBold/NotoSansBold.eot');
+  src: url('../fonts/NotoSansBold/NotoSansBold.eot?#iefix')format('embedded-opentype'),
+       url('../fonts/NotoSansBold/NotoSansBold.woff2') format('woff2'),
+       url('../fonts/NotoSansBold/NotoSansBold.woff') format('woff'),
+       url('../fonts/NotoSansBold/NotoSansBold.ttf') format('truetype'),
+       url('../fonts/NotoSansBold/NotoSansBold.svg#NotoSansBold') format('svg');
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+/* font-family Noto Serif Regular */
+
+@font-face {
+  font-family: 'NotoSerifRegular';
+  src: url('../fonts/NotoSerifRegular/NotoSerifRegular.eot');
+  src: url('../fonts/NotoSerifRegular/NotoSerifRegular.eot?#iefix')format('embedded-opentype'),
+       url('../fonts/NotoSerifRegular/NotoSerifRegular.woff2') format('woff2'),
+       url('../fonts/NotoSerifRegular/NotoSerifRegular.woff') format('woff'),
+       url('../fonts/NotoSerifRegular/NotoSerifRegular.ttf') format('truetype'),
+       url('../fonts/NotoSerifRegular/NotoSerifRegular.svg#NotoSerifRegular') format('svg');
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+/* font-family ALS_Rubl Regular */
+
+@font-face {
+  font-family: 'ALS_RublRegular';
+  src: url('../fonts/ALS_Rubl/ALS_RublRegular.eot');
+  src: url('../fonts/ALS_Rubl/ALS_RublRegular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/ALS_Rubl/ALS_RublRegular.woff2') format('woff2'),
+       url('../fonts/ALS_Rubl/ALS_RublRegular.woff') format('woff'),
+       url('../fonts/ALS_Rubl/ALS_RublRegular.ttf') format('truetype'),
+       url('../fonts/ALS_Rubl/ALS_RublRegular.svg#ALS_RublRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* font-family Monserrat Bold */
+@font-face {
+  font-family: 'MontserratBold';
+  src: url('../fonts/MonserratBold/MontserratBold.eot');
+  src: url('../fonts/MonserratBold/MontserratBold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MonserratBold/MontserratBold.woff2') format('woff2'),
+       url('../fonts/MonserratBold/MontserratBold.woff') format('woff'),
+       url('../fonts/MonserratBold/MontserratBold.ttf') format('truetype'),
+       url('../fonts/MonserratBold/MontserratBold.svg#MontserratBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
